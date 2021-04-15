@@ -1,0 +1,30 @@
+<style>
+    .logo-text{
+	  font-size:20px;
+      color: white;
+      padding-top: 15px;
+
+	  
+    }
+	 .nav-link1{
+      color: white;
+     	  
+    }
+    .list-customer{
+      padding-left: 1100px;
+    }
+
+    .nav-link1:hover{
+      color: yellow;
+      text-decoration: none;
+    }
+    h2{
+      text-align: center;
+      margin-top: 20px;
+      text-decoration: underline;
+      font-family: sans-serif;
+      color: #03045e;
+      font-weight: bold;
+    }
+
+    </style>
